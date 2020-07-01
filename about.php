@@ -43,7 +43,7 @@
 
 <h3 style = "color: #01B0F1;">About</h3>
 
-	<h3>Team</h3>
+	<h3>Elephents Team</h3>
 	<p>
 		<ul>
       <li>Siva Jasthi (siva.jasthi@metrostate.edu) </li>

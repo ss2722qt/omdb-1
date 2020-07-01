@@ -6,7 +6,7 @@
   	<img src="./images/movie_list.png">
   	<br/>Movies<br/></div>
   </a>
-
+<!--
 
   <a href="scanner_warnings.php">
   	<div <?php if($left_selected == "WARNINGS")
@@ -35,6 +35,6 @@
   	<img src="./images/goofy.png">
   	<br/>Goofy<br/></div>
   </a>
-
+-->
 
 </div>

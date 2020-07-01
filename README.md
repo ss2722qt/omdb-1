@@ -1,3 +1,2 @@
-# abasiccomposer
-A Basic Composer (ABC)
-
+# OMDB
+ICS-311 Final Project (OMDB)
